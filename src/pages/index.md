@@ -1,18 +1,40 @@
 ---
 permalink: /index.html
-title: 'The anti-social network'
-description: 'Eleventy starter using modern CSS, fluid type, fluid spacing, flexible layout and progressive enhancement.'
-layout: 'home'
+title: The anti-social network
+description: Build real connections offline. Join local groups, enjoy in-person activities, and get expert tips on health and digital detoxing. Connect. Engage. Thrive
+layout: home
 blog:
-  title: 'Blog'
-  intro: "I'm showing the last 4 blog posts, but there might be more!"
+  title: Blog
+  intro: I'm showing the last 4 blog posts, but there might be more!
+tags:
+  - Digital Detox
+  - In-Person Connections
+  - Community Building
+  - Health and Well-being
+  - Offline Activities
+  - Screen Time Management
+  - Mental Health
+  - Local Groups
+  - Real-Life Interactions
+  - Event Planning
+  - Face-to-Face Meetings
+  - Technology Balance
+  - Mindfulness
+  - Family Activities
+  - Volunteering
+  - Social Media Impact
+  - Outdoor Activities
+  - Success Stories
+  - Mindfulness Practices
+  - Tech-Free Zones
 ---
+
 
 
 **Reclaim Real Connections in a Digital World**
 
 
-{% image "./src/assets/images/headers/shift-welcome.png", "Close-up of a delicate white flower with a yellow center, surrounded by green leaves", null, "Jasmine nightshades blooming in July" %}
+{% image "./src/assets/images/headers/shift-welcome.png", "A vibrant and welcoming website header image capturing a diverse group of people engaged in various in-person activities. ", null, "A vibrant and welcoming website header" %}
 
 
 

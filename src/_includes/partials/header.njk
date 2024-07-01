@@ -3,7 +3,19 @@
 <header class="wrapper">
   <div class="site-header | repel ontop">
     <a href="/" class="logo | cluster" {% if page.url == "/" %}aria-current="page"{% endif %}>
-      {% svg "misc/star" %}
+
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background rectangle -->
+  <rect width="100" height="100" rx="15" ry="15" fill="#dd4462"/>
+
+  <!-- Text "SS" for Social Shift -->
+  <text x="50" y="60" font-family="Arial, Helvetica, sans-serif" font-size="36" fill="white" text-anchor="middle" font-weight="bold">SS</text>
+
+  <!-- Two interlocking circles to symbolize connection -->
+  <circle cx="30" cy="30" r="8" fill="none" stroke="white" stroke-width="3"/>
+  <circle cx="70" cy="30" r="8" fill="none" stroke="white" stroke-width="3"/>
+</svg>
+
 
       <span class="font-display">{{ meta.siteName }}</span>
     </a>

@@ -5,7 +5,7 @@ description: 'Learn about Social Shift, our mission to foster real-world connect
 layout: page
 ---
 
-{% image "./src/assets/images/headers/shift-welcome-indoor.png", "Close-up of a delicate white flower with a yellow center, surrounded by green leaves", null, "Jasmine nightshades blooming in July" %}
+{% image "./src/assets/images/headers/shift-welcome-indoor.png", "An inviting image depicting a cozy indoor setting where people are gathered around a large table", null, "An inviting image depicting a cozy indoor setting" %}
 
 
 

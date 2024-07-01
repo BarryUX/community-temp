@@ -5,22 +5,26 @@ export default {
       url: '/about/'
     },
     {
-      text: 'Docs',
-      url: '/get-started/'
-    },
-    {
-      text: 'Built with',
-      url: '/built-with/'
+      text: 'Communities',
+      url: '/communities/'
     },
     {
       text: 'Blog',
       url: '/blog/'
+    },
+    {
+      text: 'Contact us',
+      url: '/contact-us/'
     }
   ],
   bottom: [
     {
       text: 'Style guide',
       url: '/styleguide/'
+    },
+    {
+      text: 'Docs',
+      url: '/get-started/'
     },
     {
       text: 'Imprint',
